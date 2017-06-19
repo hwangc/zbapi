@@ -1,0 +1,22 @@
+{
+  "name": "zigbang_api",
+  "version": "1.0.0",
+  "description": "Provide api for clients to fetch, insert",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mysql2": "^1.3.5",
+    "sequelize": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "server",
+    "api"
+  ],
+  "author": "hwangc",
+  "license": "ISC"
+}
