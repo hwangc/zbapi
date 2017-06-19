@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# DB config file
+config/dbconfig.js
